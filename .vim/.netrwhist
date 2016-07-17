@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/Isaac/.vim/Colors'
+let g:netrw_dirhist_2='/Users/Isaac/Documents/Projects'
+let g:netrw_dirhist_3='/Users/Isaac/Workspace/C++/TheUltimateRPG'
+let g:netrw_dirhist_4='/Users/Isaac/Documents/School/Informatics/Unit_4_SAT/Unit-4-Outcome-1/_posts'
+let g:netrw_dirhist_5='/Users/Isaac/discordbot/node_modules/discord.js'
+let g:netrw_dirhist_6='/Users/Isaac/discordbot'
